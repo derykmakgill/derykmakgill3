@@ -9,7 +9,7 @@ highlighter:         true
 permalink:        pretty
 
 # Setup
-title:            Joshua Lande
+title:            Glockstore Blog
 tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
 url:              http://www.joshualande.com
 shorturl:         joshualande.com
@@ -18,7 +18,7 @@ author:
   name:           'Joshua Lande'
   url:            https://twitter.com/joshualande
 
-paginate:         1
+paginate:         20
 
 # Custom vars
 version:          1.0.0
