@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How (and Why) I Moved My Blog from WordPress to Jekylll
+title: How and Why I Moved My Blog from WordPress to Jekylll
 comments: true
 redirect_from: "/2013/02/01/pointlike/"
 permalink: pointlike-fitting-package
