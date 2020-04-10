@@ -3,6 +3,7 @@ layout: post
 title: "How to Install MySQL On Your Local Machine"
 comments: true
 permalink: install-mysql
+image: https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5d31d0c47a102713c3e6f333_Webp.net-resizeimage%20(2).png
 ---
 
 *This is the second post in a [series of posts]({% post_url 2014-04-17-data-science-sql %})
