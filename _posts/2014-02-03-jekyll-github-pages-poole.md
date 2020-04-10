@@ -4,6 +4,7 @@ title: How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, an
 comments: true 
 redirect_from: "/2014/02/03/jekyll-github-pages-poole/"
 permalink: jekyll-github-pages-poole 
+image: https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5c66d0d7239db75f5beb2f54_IMG_0733-p-1600.jpeg
 ---
 
 I recently migrated this website from [Wordpress](http://wordpress.com) to [Github pages](http://pages.github.com/)
