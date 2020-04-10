@@ -4,6 +4,7 @@ title: How to Really Project Your Child's Privacy and Why
 comments: true
 redirect_from: "/2014/02/14/solar-particle-events-sstorm"
 permalink: health-impact-solar-particle-events-sstorm
+excerpt:  It’s hard to retain much privacy in the information age — the internet has a nearly perfect limitless memory and we’re placing a ton of sensitive data onto it. After being swatted in 2017, I set out on a mission to start my life over with a renewed focus on privacy.
 image: https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5e6136025d6b0ecb8a88a30a_DSC_0315_Original-p-3200.jpeg
 ---
 
