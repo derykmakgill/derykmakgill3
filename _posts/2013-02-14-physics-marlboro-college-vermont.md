@@ -1,14 +1,10 @@
 ---
 layout: post
-title: Studying Physics at Marlboro College in the Hills of Vermont
+title: "How to Stop Your Site from Being Archived (and Remove Existing Archives)"
 comments: true
 redirect_from: "/2013/02/14/marlboro-college/"
 permalink: physics-marlboro-college-vermont
 ---
-
-![The Marlboro College 2008 Community Photo. I am on the very right
-three rows from the
-bottom.](/assets/marlboro_community_photo_2008-940x626.jpg)
 
 I went to [Marlboro College](http://www.marlboro.edu) and graduated
 in 2008.  Marlboro is a liberal arts school in the beautiful hills
