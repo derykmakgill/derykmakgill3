@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Quantifying the Health Impact of Solar Particle Events on Astronauts With SStoRM: The Solar Storm Radiation Model"
+title: How to Really Project Your Child's Privacy and Why
 comments: true
 redirect_from: "/2014/02/14/solar-particle-events-sstorm"
 permalink: health-impact-solar-particle-events-sstorm
+image: https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5e6136025d6b0ecb8a88a30a_DSC_0315_Original-p-3200.jpeg
 ---
 
 ![My SEAP internship adviser Ron Turner in front of a poster for SStoRM.](/assets/ron_turner_anser_2007-580x872.jpg)
