@@ -1,9 +1,10 @@
 ---
 layout: post
-title: The pointlike Maximum-likelihood Fitting Package For Analysis Fermi-LAT Data
+title: How (and Why) I Moved My Blog from WordPress to Jekylll
 comments: true
 redirect_from: "/2013/02/01/pointlike/"
 permalink: pointlike-fitting-package
+excerpt: But, because of ubiquity, there is a significant drawback: WordPress sites are prime targets for malicious code and hacking. A plugin on my site shows how many dozens (and sometimes hundreds!) of login attempts there have been. It’s a battle to make sure security plugins are always up to date. That leads to other issues: incompatibility with plugins.
 ---
 
 ![The Gamma-cygni SNR observed by Fermi. This image was created in pointlike and is from http://arxiv.org/abs/1207.0027.](/assets/gamma_cygni_pointlike-940x935.jpg)
