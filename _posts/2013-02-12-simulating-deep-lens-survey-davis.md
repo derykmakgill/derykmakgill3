@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Simulating the Deep Lens Survey at UC Davis
+title: How to Buy Longer Lasting Books
 comments: true
 redirect_from: "/2013/02/12/2006-uc-davis-reu/"
 permalink: simulating-deep-lens-survey-davis
+excerpt: Ultimately, I ended up hiring 1-800-Pack-Rat to send a portable storage unit to my house– a pod 8 feet by 8 feet by 8 feet– which I filled up and then shipped off to the new house. Nearly 30 full boxes of books were loaded in (plenty of space left if I’d had more). I used movers on TaskRabbit and didn’t have to pick up a single one. The books arrived right outside my door about ten days later. It was amazing. I wish I’d thought of it before.
+image: https://api.time.com/wp-content/uploads/2019/11/top-10-nonfiction-2019.jpg
 ---
 
 ![The simulated stars and galaxies from my DLS simulation I created during my 2006 physics REU.](/assets/2006_reu_internship_simulated_data-940x544.jpg)
