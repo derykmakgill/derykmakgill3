@@ -4,9 +4,10 @@ title: How and Why I Moved My Blog from WordPress to Jekyll
 comments: true
 redirect_from: "/2013/02/01/pointlike/"
 permalink: pointlike-fitting-package
-excerpt: But because of ubiquity there is a significant drawback: WordPress sites are prime targets for malicious code and hacking. 
 ---
 
+But because of ubiquity there is a significant drawback: WordPress sites are prime targets for malicious code and hacking. 
+ 
 ![The Gamma-cygni SNR observed by Fermi. This image was created in pointlike and is from http://arxiv.org/abs/1207.0027.](/assets/gamma_cygni_pointlike-940x935.jpg)
 
 During graduate school, I was involved with the development of pointlike, a package for fitting data observed by the [Fermi Gamma-ray space telescope](http://fermi.gsfc.nasa.gov).
