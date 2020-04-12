@@ -14,3 +14,9 @@ I don't share or rent that data with anyone.
 ## Mailing Lists
 
 Anything I send to my mailing lists is untracked. I do not use tracking pixels of any kind and I cannot tell if you opened, clicked, etc, unless you reply to me.
+
+## Affiliate Links
+
+I use affiliate links from various products and services I use and recommend. This means I get paid when you click an affiliate link and buy something I recommend! But if often means you get a discount too. 
+
+Some of these links will track you. You should clear your browsing cookies *after* *wink wink* you buy something.
