@@ -3,6 +3,18 @@ layout: page
 title: Privacy Policy
 ---
 
+## How You Can Be More Private on DerykMakgill.com
+
+You should read my complete guide to [privacy,](/) but the TLDR is this...
+
+- Use [FireFox](/) or [Brave Browser](/) to browse the site.
+- Subscribe to my email list with [ProtonMail](/) or a comparable email service.
+- Use a VPN such as [ProtonVPN.](/)
+- Pay for products in Bitcoin.
+- Search for site content with [DuckDuckGo](/) search engine.
+
+Privacy is all our responsibility, not just the site owner's!
+
 ## Site Analytics
 
 I use [Fathom Analytics,](https://usefathom.com/ref/QDNHKF) a privacy-preserving open-source analytics software by Paul Jarvis. It's so private, you don't even need to add one of those notices that are so common today.
