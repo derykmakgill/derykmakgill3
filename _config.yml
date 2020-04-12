@@ -11,8 +11,8 @@ permalink:        pretty
 # Setup
 title:            Deryk Makgill
 tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
-url:              http://www.joshualande.com
-shorturl:         joshualande.com
+url:              
+shorturl:         
 
 author:
   name:           'Joshua Lande'
@@ -28,6 +28,7 @@ github:
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
+  About: '/about/'
   About: '/about/'
   Archive: '/archive/'
   Feed: '/atom.xml'
