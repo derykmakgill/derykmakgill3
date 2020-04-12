@@ -23,6 +23,7 @@ You should read my complete guide to [privacy,](/) but the TLDR is this...
 - Use a VPN such as [ProtonVPN.](/)
 - Pay for products in Bitcoin.
 - Search for site content with [DuckDuckGo](/) search engine.
+- Don't email me or post anything on this site, under your name or another name, that you woudn't feel comfortable having tied to your real identity.
 
 Privacy is all our responsibility, not just the site owner's!
 
@@ -45,3 +46,13 @@ I might in the future give some free handouts to people who sign up for my newsl
 I use affiliate links from various products and services I use and recommend. This means I get paid when you click an affiliate link and buy something I recommend! But if often means you get a discount too. 
 
 Some of these links will track you. You should clear your browsing cookies *after* *wink wink* you buy something.
+
+## Comments
+
+I don't currently have comments on this site because I haven't found a good way to do it on a static site that protects privacy. This may change in the future.
+
+You will *always* be able to request that your comments be deleted later and I will do my best to have archive pages with your comments removed as well.
+
+## Archive Services
+
+Archive.org, Archive.Today, are hereby notified that I request they do not archive this site without written permission from me.
