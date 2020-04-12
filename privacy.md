@@ -4,7 +4,7 @@ title: Privacy Policy
 Updated: April 12, 2020
 ---
 
-## How You Can Be More Private on DerykMakgill.com
+## Privacy Advice
 
 You should read my complete guide to [privacy,](/) but the TLDR is this...
 
