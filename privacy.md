@@ -55,4 +55,4 @@ You will *always* be able to request that your comments be deleted later and I w
 
 ## Archive Services
 
-Archive.org, Archive.Today, are hereby notified that I request they do not archive this site without written permission from me.
+Archive.org, Archive.Today, and similar services are hereby notified that I request they do not archive this site without written permission from me.
