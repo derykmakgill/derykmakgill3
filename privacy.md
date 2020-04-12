@@ -41,6 +41,8 @@ Anything I send to my mailing lists is untracked. I do not use tracking pixels o
 
 I might in the future give some free handouts to people who sign up for my newsletters using a more private email service like ProtonMail instead of Gmail.
 
+All email conversations we have via replies to my mailing list are deleted every thirty days.
+
 ## Affiliate Links
 
 I use affiliate links from various products and services I use and recommend. This means I get paid when you click an affiliate link and buy something I recommend! But if often means you get a discount too. 
@@ -56,3 +58,7 @@ You will *always* be able to request that your comments be deleted later and I w
 ## Archive Services
 
 Archive.org, Archive.Today, and similar services are hereby notified that I request they do not archive this site without written permission from me.
+
+I've found that they are responsive and put together a [guide to contacting them.](/)
+
+
