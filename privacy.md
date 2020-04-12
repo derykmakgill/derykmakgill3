@@ -3,8 +3,14 @@ layout: page
 title: Privacy Policy
 ---
 
+## Site Analytics
+
 I use [Fathom Analytics,](https://usefathom.com/ref/QDNHKF) a privacy-preserving open-source analytics software by Paul Jarvis. It's so private, you don't even need to add one of those notices that are so common today.
 
 I can't tell who you are. I can't see your IP, your email address, your previous browsing history, etc. I can't use the data to send you ads or track you around the web. All I can tell is who is visiting the website, what pages they view, how long they stay on the page, and the country of origin. 
 
-That's it!
+I don't share or rent that data with anyone.
+
+## Mailing Lists
+
+Anything I send to my mailing lists is untracked. I do not use tracking pixels of any kind and I cannot tell if you opened, clicked, etc, unless you reply to me.
