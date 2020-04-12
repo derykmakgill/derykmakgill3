@@ -31,6 +31,7 @@ pages_list:
   About: '/about/'
   Links: '/links/'
   Archive: '/archive/'
+  Subscribe: '/subscribe/'
   Feed: '/atom.xml'
   
 # Allow URL Redirects: 
