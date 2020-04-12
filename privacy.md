@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+Updated: April 12, 2020
 ---
 
 ## How You Can Be More Private on DerykMakgill.com
