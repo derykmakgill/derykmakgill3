@@ -15,6 +15,8 @@ I don't share or rent that data with anyone.
 
 Anything I send to my mailing lists is untracked. I do not use tracking pixels of any kind and I cannot tell if you opened, clicked, etc, unless you reply to me.
 
+I might in the future give some free handouts to people who sign up for my newsletters using a more private email service like ProtonMail instead of Gmail.
+
 ## Affiliate Links
 
 I use affiliate links from various products and services I use and recommend. This means I get paid when you click an affiliate link and buy something I recommend! But if often means you get a discount too. 
