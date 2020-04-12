@@ -4,6 +4,16 @@ title: Privacy Policy
 last: 11 April 2020
 ---
 
+*"Civilization is the progress toward a society of privacy."*
+
+Mark Zuckerberg says that privacy is no longer a social norm. That annoys me both because I think he's correct and I think it shouldn't be that way.
+
+People have been careless. We, and that includes me, have used services for years that seemed like a free lunch and now the chickens are coming home to roost. We're realising that everywhere around us exists near-complete tracking and surveillance.
+
+It doesn't need to be this way though. Indeed it could be easily fixed if we all started taking reasonable (not tin-foil hat wearing) steps to protect our privacy and the privacy of our user and customers.
+
+This privacy policy outlines how to do that and the steps I've taken on [DerykMakgill.com](/) to protect your privacy and mine.
+
 ## Privacy Advice
 
 You should read my complete guide to [privacy,](/) but the TLDR is this...
