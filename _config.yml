@@ -30,7 +30,6 @@ github:
 pages_list:       
   About: '/about/'
   Archive: '/archive/'
-  Links:'/links'
   Feed: '/atom.xml'
   
 # Allow URL Redirects: 
