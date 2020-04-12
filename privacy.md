@@ -1,7 +1,7 @@
 ---
 layout: privacy
 title: Privacy Policy
-last: April 12 2020
+last: 11 April 2020
 ---
 
 ## Privacy Advice
