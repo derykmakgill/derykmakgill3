@@ -29,7 +29,6 @@ github:
 # This is the list of pages to include in the header of the website.
 pages_list:       
   About: '/about/'
-  Links: '/links/'
   Archive: '/archive/'
   Subscribe: '/subscribe/'
   Feed: '/atom.xml'
@@ -42,3 +41,10 @@ gems:
 
 # Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50  
+
+# Collections
+
+collections:
+  links:
+    output: true
+    permalink: /links/:path/
