@@ -4,61 +4,18 @@
   {% include head.html %}
 
   <body>
-<header id="masthead" style="
-    display: flex;
-    align-items: center;
-    max-width: 69em;
-    margin: 2em auto;
-    padding: 0 1em;
-">
-		<div class="logo" style="
-    flex: 0 0 2.4em;
-    text-align: center;
-    line-height: 0;
-    margin-right: .5em;
-    /* display: inline; */
-">
-							<a href="https://sustywp.com/" rel="home"><img alt="Susty WP logo" src="https://pbs.twimg.com/profile_images/1226668761916166146/ZnZrRCcn_400x400.jpg" style="
-    border-radius: 100%;
-"><span class="screen-reader-text" style="
-    border: 0;
-    clip: rect(1px,1px,1px,1px);
-    clip-path: inset(50%);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute !important;
-    width: 1px;
-    word-wrap: normal !important;
-">Home</span></a>
-						</div>
 
-					<p style="
-    font-size: 1em;
-    line-height: 1em;
-    font-weight: 700;
-    flex: 1;
-    /* margin: 0; */
-    margin-top: 0px;
-"><a href="https://sustywp.com/" rel="home" style="
-    text-decoration: none;
-    color: #111;
-    border: none;
-    background: none;
-">Deryk Makgill</a></p>
-							<p><a href="https://sustywp.com/menu/" style="
-    text-decoration: none;
-    color: #111;
-    font-weight: bold;
-    display: inline;
-    border: none;
-    background: none;
-    ">Menu</a></p>
-
-					</header>
     <div class="container content">
-    
+     <div class="masthead">
+        <h3 class="masthead-title">
+          <a href="/" title="Home">{{ site.title }}</a>
+
+          {% for page in site.pages_list %}
+              &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+          {% endfor %}
+
+        </h3>
+      </div>
 
       {{ content }}
 
