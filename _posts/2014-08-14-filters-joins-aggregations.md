@@ -6,16 +6,8 @@ permalink: "filters-joins-aggregations"
 image: http://derykmakgill.com/deryk-isaac-cameron.jpg
 ---
 
-*This is the fourth post in a [series of posts]({% post_url 2014-04-17-data-science-sql %})
-about doing data science with SQL. The 
-[previous post]({% post_url 2014-04-28-create-tables-sql %})
-went over the commands
-required to set up the example recipes database from the 
-[first post]({% post_url 2014-04-18-database-normalization %}) 
-in this series.*
-
 In this post, I will use the example recipes database from the
-[first post]({% post_url 2014-04-18-database-normalization %}) to
+[first post](/) to
 go over the basics of querying in SQL with the `SELECT` statement.
 I will start with the basic operators of filtering, joining, and
 aggregating. Then I will show how these simple commands can be
@@ -29,7 +21,7 @@ database.  For example, we might be interested in finding
 all of the ingredients in the "Tomato Soup" recipe
 (from the 
 recipes database described in the
-[first post]({% post_url 2014-04-18-database-normalization %}) 
+[first post](/) 
 in this series). 
 
 This query is non-trivial because this
@@ -625,4 +617,4 @@ This returns:
 From these examples, I hope you see that the simple SQL operators
 can be combined to perform very powerful queries.
 
-{% include twitter_plug.html %}
+
